@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clifford-Baidoo
+- 👋 Hi, I’m @Clifford-Kingsley-Baidoo
 - 👀 I’m a 👋 Cyber security student and aspiring web developer.
 -  Proficient in HTML, CSS, JS, PHP, and Python 🐍
 - 🐧 Linux enthusiast who loves trying out new technologies.
